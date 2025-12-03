@@ -17,6 +17,8 @@ I’m currently in an 8-Day Python Hireability Sprint, building one project per 
   👉 [View Project](https://github.com/SunshineKeyboard/day-one-text-analyzer-cli)
 - **Day 2: File Organizer Automation Tool**  
   👉 [View Project](https://github.com/SunshineKeyboard/day-two-file-organizer)
+- **Day 3: Password Generator & Strength Checker**  
+  👉 [View Project](https://github.com/SunshineKeyboard/day-three-password-tool)
 
 
 In Progress:
