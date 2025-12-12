@@ -2,7 +2,7 @@
 
 I'm transitioning into Python development after years spent in roles where focus, communication, and reliability really mattered.
 
-I worked 7+ years as a Pharmacy Technician, which taught me to be detail-oriented, follow structured workflows, stay organized, and maintain accuracy even when things get busy. I also spent time in service and retail, where I learned how to adapt quickly, support others, and stay steady under pressure.
+I worked 7+ years as a Pharmacy Technician, which taught me to be detail-oriented, follow structured workflows, stay organized, and maintain accuracy even when things get busy. I also spent time in service industry and retail, where I learned how to adapt quickly, support others, and stay steady under pressure.
 
 All of those experiences are shaping how I approach coding — with patience, care, curiosity, and a commitment to learning things the right way.
 
@@ -21,7 +21,7 @@ I’m currently in an 8-Day Python Hireability Sprint, building one project per 
   👉 [View Project](https://github.com/SunshineKeyboard/day-three-password-tool)
 - **Day 4: Weather Dashboard (API + JSON)**  
   👉 [View Project](https://github.com/SunshineKeys/day-four-weather-dashboard)
-  - **Day 5: Expense Tracker & CSV Report Generator**  
+- **Day 5: Expense Tracker & CSV Report Generator**  
   👉 [View Project](https://github.com/SunshineKeys/day-five-expense-tracker)
 
 
