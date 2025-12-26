@@ -1,6 +1,3 @@
-Absolutely — here’s a clean, copy-and-paste–ready version of the tailored profile section, with no extra commentary or formatting outside the content itself:
-
----
 
 🌞 **Hi, I’m Sunshine — Transitioning Into Remote Tech & Dev-Adjacent Work with a Technician’s Eye and a Service-Driven Work Ethic**
 
