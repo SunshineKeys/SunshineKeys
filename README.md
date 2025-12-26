@@ -83,5 +83,3 @@ I’m always open to connecting with developers, support teams, mentors, and oth
 Thanks for visiting — more projects coming soon. 🌱💛
 
 ---
-
-If you want, I can also help you swap in the real “View Project” links — just tell me which repos match which days and I’ll format them neatly for GitHub.
