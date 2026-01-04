@@ -1,4 +1,4 @@
-# 🌞 Hi, I’m Sunshine
+ 🌞 Hi, I’m Sunshine
 
 I build practical Python projects with a focus on clean logic, clarity, and real-world usability. My work emphasizes readable code, structured problem-solving, and shipping functional tools — not just exercises.
 
@@ -21,23 +21,23 @@ I’m comfortable working in the command line, using Git and GitHub for version 
 Each project below is a complete, working Python application designed to reinforce real technical workflows:
 
 - **Day 1 — Text Analyzer CLI**  
-  🔗 https://github.com/SunshineKeys/Day-1-Text-Analyzer  
+  🔗 https://github.com/SunshineKeys/day-one-text-analyzer-cli 
   *Command-line tool for analyzing user-provided text and extracting useful insights.*
 
 - **Day 2 — File Organizer Automation Tool**  
-  🔗 https://github.com/SunshineKeys/Day-2-File-Organizer  
+  🔗 https://github.com/SunshineKeys/day-two-file-organizer  
   *Automates file organization using Python and filesystem operations.*
 
 - **Day 3 — Password Generator & Strength Checker**  
-  🔗 https://github.com/SunshineKeys/Day-3-Password-Generator  
+  🔗 https://github.com/SunshineKeys/day-three-password-tool  
   *Generates secure passwords and evaluates strength based on defined rules.*
 
 - **Day 4 — Weather Dashboard (API + JSON)**  
-  🔗 https://github.com/SunshineKeys/Day-4-Weather-Dashboard  
+  🔗 https://github.com/SunshineKeys/day-four-weather-dashboard  
   *Fetches live weather data using an API and processes JSON responses.*
 
 - **Day 5 — Expense Tracker & CSV Report Generator**  
-  🔗 https://github.com/SunshineKeys/Day-5-Expense-Tracker  
+  🔗 https://github.com/SunshineKeys/day-five-expense-tracker  
   *Tracks expenses and exports structured CSV reports.*
 
 - **Day 6 — Task Manager CLI (JSON Persistence)**  
@@ -57,3 +57,4 @@ Each project below is a complete, working Python application designed to reinfor
 ## 🤝 Let’s Connect
 I’m open to opportunities, feedback, and collaboration.  
 Thanks for checking out my work.
+ 
