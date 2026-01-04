@@ -1,4 +1,4 @@
-🌞 **Hi, I’m Sunshine — Python Developer in Transition with a Technician’s Precision and Service-Driven Work Ethic**
+🌞 **Hi, I’m Sunshine — Python Developer with a Technician’s Precision and Service-Driven Work Ethic**
 
 I’m building a career in remote technical and dev-adjacent work, bringing together a strong foundation in **workflow accuracy, structured processes, and calm, reliable problem-solving**.
 
