@@ -45,7 +45,7 @@ Each project below is a complete, working Python application designed to reinfor
   *Menu-driven task manager with persistent data storage using JSON.*
 
 - Day 7 — Log Analyzer Tool — CLI tool for analyzing log files and counting entries by severity level
-  🔗 https://github.com/SunshineKeys/day-seven-log-analyzer
+ 🔗 https://github.com/SunshineKeys/day-seven-log-analyzer
 ---
 
 ## 🔧 What I’m Focused On
