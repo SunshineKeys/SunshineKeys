@@ -1,8 +1,10 @@
-# 🌞 Hi, I'm Megan — Data Analyst
 
-I turn messy data into clear insights through data cleaning, analysis, and visualization, building tools that solve real business problems. My work emphasizes clean code, structured analysis, and delivering actionable results—not just pretty charts.
 
-**Current focus:** Transitioning from 7 years in healthcare (Certified Pharmacy Technician) to data analyst roles where I can combine analytical skills, Python proficiency, and healthcare domain expertise.
+# 🌞 Hi, I'm Megan — Healthcare Data Analyst
+
+I combine healthcare analytics experience (Change Healthcare) with pharmacy
+operations background and modern technical skills in Python, pandas, and data
+visualization.
 
 ---
 
