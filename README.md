@@ -1,186 +1,95 @@
+## 🌞 Hey, I'm Sunshine.
 
+**Former Pharmacy Technician turned Healthcare Data Analyst** — with 6 years of hands-on pharmacy operations experience and a growing toolkit in Python, Pandas, and SQL.
 
-# 🌞 Hi, I'm Megan — Healthcare Data Analyst
+I spent years on the ground floor of healthcare — processing Medicare, Medicaid, and commercial claims, handling workers' comp and DME billing, managing prior authorizations, and reconciling pharmaceutical rebates at **Change Healthcare** for Iowa Medicaid. I know what pharmacy claims data looks like from the inside because I've lived in it.
 
-I combine healthcare analytics experience (Change Healthcare) with pharmacy
-operations background and modern technical skills in Python, pandas, and data
-visualization.
-
----
-
-## 🎉 Recent Work: 5-Day Data Analyst Sprint — COMPLETE
-
-An intensive sprint focused on job-ready analytics skills using pandas, SQL-style querying, and professional data visualization. Projects emphasize real-world datasets, KPI reporting, and stakeholder-ready insights.
-
-### 📊 Data Analyst Sprint Projects
-
-#### **Day 1 — Job Application Analyzer**
-Tracks job applications and generates insights on success rates, location trends, and follow-up recommendations.  
-🔗 https://github.com/SunshineKeys/job-application-analyzer
-
-#### **Day 2 — Sales Performance Analyzer**
-Executive-level sales analysis with pivot tables, KPIs, performance metrics, and multi-format exports (CSV + TXT reports).  
-🔗 https://github.com/SunshineKeys/sales-performance-analyzer
-
-#### **Day 3 — Sales Visual Report (CAPSTONE)**
-Complete visual analysis with 5 professional charts, written insights, and strategic recommendations.  
-🔗 https://github.com/SunshineKeys/sales-visual-report
+Now I'm building the technical skills to analyze that data at scale. I write Python scripts that automate what I used to do by hand, and I'm working toward roles where my pharmacy operations knowledge meets real data analysis — because someone who understands both the data AND the workflow it came from is hard to find.
 
 ---
 
-## 🐍 Previous Work: 8-Day Python Portfolio Sprint
+## 📊 Data Analyst Projects
 
-A foundational sprint focused on Python problem-solving, automation, and clean program design. Each project is self-contained and documented.
+* **Sales Visual Report (Capstone)**
+  Complete visual analysis with 5 professional charts, written insights, and strategic recommendations.
+  👉 [github.com/SunshineKeys/sales-visual-report](https://github.com/SunshineKeys/sales-visual-report)
 
-### 🧩 Python Projects (Individual Repos)
+* **Sales Performance Analyzer**
+  Executive-level sales analysis with pivot tables, KPIs, performance metrics, and multi-format exports (CSV + TXT reports).
+  👉 [github.com/SunshineKeys/sales-performance-analyzer](https://github.com/SunshineKeys/sales-performance-analyzer)
 
-- **Day 8 — Job Application Tracker (CLI + JSON persistence)**  
-  🔗 https://github.com/SunshineKeys/job-application-tracker
+* **Job Application Analyzer**
+  Tracks job applications and generates insights on success rates, location trends, and follow-up recommendations.
+  👉 [github.com/SunshineKeys/job-application-analyzer](https://github.com/SunshineKeys/job-application-analyzer)
 
-- **Day 7 — Log Analyzer Tool (file parsing + severity counts)**  
-  🔗 https://github.com/SunshineKeys/log-analyzer-tool
+### 🔜 Coming Soon
 
-- **Day 6 — Task Manager (menu-driven, state management)**  
-  🔗 https://github.com/SunshineKeys/task-manager-cli
+* **Pharmacy Claims Analysis Pipeline**
+  A complete Python + SQL + Pandas pipeline analyzing 500+ pharmacy claims across patients, drugs, and pharmacies. Includes data loading into SQLite, multi-table JOINs, GROUP BY aggregation, CASE-based risk flagging, and exported CSV reports — built to mirror real PBM analytics workflows.
 
-- **Day 5 — Expense Tracker (CSV export + validation)**  
-  🔗 https://github.com/SunshineKeys/expense-tracker
+* **Power BI Healthcare Dashboard**
+  Interactive dashboard visualizing pharmacy claims data — cost trends by therapeutic category, denial rates, high-cost patient identification, and formulary tier analysis.
 
-- **Day 4 — Weather Dashboard (API integration + JSON handling)**  
-  🔗 https://github.com/SunshineKeys/weather-dashboard
+---
 
-- **Day 3 — Password Generator (security tools + validation)**  
-  🔗 https://github.com/SunshineKeys/password-generator
+## 🛠️ Python Projects
 
-- **Day 2 — File Organizer (automation by file type)**  
-  🔗 https://github.com/SunshineKeys/file-organizer
+Built during an 8-day sprint to strengthen scripting fundamentals and automation skills.
 
-- **Day 1 — Text Analyzer CLI (statistics + reading time)**  
-  🔗 https://github.com/SunshineKeys/text-analyzer-cli
+* **Text Analyzer CLI** — Word frequency, character counts, readability scoring.
+  👉 [github.com/SunshineKeys/day-one-text-analyzer-cli](https://github.com/SunshineKeys/day-one-text-analyzer-cli)
 
-🔗 **All Repositories:** https://github.com/SunshineKeys?tab=repositories
+* **File Organizer** — Automated file sorting by extension with logging and undo.
+  👉 [github.com/SunshineKeys/day-two-file-organizer](https://github.com/SunshineKeys/day-two-file-organizer)
+
+* **Password Generator & Strength Checker** — Secure generation with entropy scoring.
+  👉 [github.com/SunshineKeys/day-three-password-tool](https://github.com/SunshineKeys/day-three-password-tool)
+
+* **Weather Dashboard** — Live weather data from a public API.
+  👉 [github.com/SunshineKeys/day-four-weather-dashboard](https://github.com/SunshineKeys/day-four-weather-dashboard)
+
+* **Expense Tracker & CSV Report Generator** — Persistent storage, filtering, and summaries.
+  👉 [github.com/SunshineKeys/day-five-expense-tracker](https://github.com/SunshineKeys/day-five-expense-tracker)
+
+---
+
+## 💊 What I Bring to the Table
+
+I'm not a fresh grad learning healthcare from a textbook. I've got years of experience in the systems these roles support:
+
+* **Pharmacy claims processing** — Medicare Part D & C, Medicaid, commercial, workers' comp, DME
+* **Rebate reconciliation** — manufacturer discount agreements, payment variance research, invoice validation
+* **Formulary & prior authorization** — drug tier structures, coverage determinations, PA workflows
+* **Billing & coding** — ICD-10, CPT, HCPCS, NDC, fee schedules, claims adjudication
+* **Team leadership** — consistently trained new techs, interns, and managers; turned a failing retail location into top 5 in the district within 2 months
+
+That operational knowledge is the foundation. The Python, SQL, and Pandas are how I'm leveling it up.
 
 ---
 
 ## 🧰 Technical Skills
 
-### 📈 Data Analysis
-- **Python:** pandas, NumPy, matplotlib, seaborn
-- **Data Operations:** SQL-style querying (GROUP BY, aggregations, joins, pivot tables)
-- **Visualization:** Professional charts, dashboards, executive summaries
-- **Tools:** Jupyter Notebook, Excel, CSV / JSON handling
-
-### 💻 Programming
-- **Primary Language:** Python
-- **Workflow:** Git, GitHub, PyCharm, command line
-- **Libraries:** requests, datetime, collections, openpyxl
-- **Concepts:** Data cleaning, ETL processes, automation, API integration
-
-### 🏥 Domain Expertise
-- 7 years as a Certified Pharmacy Technician
-- Healthcare systems: Rx30, PioneerRx, QS/1
-- HIPAA-compliant data handling
-- High-accuracy work in regulated environments
+* **Languages:** Python, SQL
+* **Data:** Pandas, CSV/Excel processing, SQLite, data cleaning & transformation
+* **Tools:** VS Code, PyCharm, Git/GitHub, Microsoft Excel (pivot tables, VLOOKUP, complex formulas)
+* **Learning:** Power BI, Tableau, healthcare data visualization
+* **Concepts:** ETL pipelines, claims data analysis, financial reporting, process automation
 
 ---
 
-## 🔑 Analyst Skill Keywords (ATS-Optimized)
+## 🎯 What I'm Looking For
 
-**Core Analyst Skills:**  
-Data Analysis, Data Cleaning, Data Validation, Exploratory Data Analysis (EDA), KPI Development, Business Intelligence, Reporting, Dashboarding, Data Storytelling, Insight Generation
+Remote healthcare data analyst, pharmacy analyst, or claims analyst roles where my pharmacy operations background isn't just a nice-to-have — it's the whole point.
 
-**Technical Keywords:**  
-Python, pandas, NumPy, matplotlib, seaborn, SQL-style querying, GROUP BY, aggregations, joins, pivot tables, CSV, JSON, Excel, Jupyter Notebook, PyCharm, Git, GitHub
-
-**Analysis Techniques:**  
-Trend Analysis, Performance Analysis, Success Rate Analysis, Segmentation, Comparative Analysis, Descriptive Statistics, Time-Based Analysis
-
-**Business & Domain:**  
-Healthcare Analytics, Operational Reporting, Process Improvement, Metrics Tracking, Stakeholder Communication, HIPAA Awareness
+I'm especially interested in PBM companies, health insurers, and managed care organizations where someone who understands pharmacy claims data from the ground up can make an immediate impact.
 
 ---
 
-## 💼 What I'm Looking For
+## 🤝 Let's Connect
 
-**Entry-level roles in:**
-- Data Analyst
-- Junior Data Analyst
-- Business Analyst
-- Business Intelligence / Analytics roles
+I'm always happy to talk with people in healthcare analytics, pharmacy operations, or anyone who values bringing real-world experience to data work.
 
-**What I bring:**
-- 11 completed portfolio projects
-- Strong analytical thinking and attention to detail
-- Healthcare domain knowledge
-- Clear communication—I explain insights, not just charts
-- Proven ability to self-teach complex technical skills
+📧 meganmerrigan89@gmail.com
+💼 [LinkedIn](www.linkedin.com/in/megan-merrigan-a824a1265)
 
----
-
-## 🎯 Why I'm Different
-
-Most career changers talk about wanting to learn. **I’m already doing the work.**
-
-- “I want to learn data analysis” → Built 3 analytics projects in 5 days  
-- “I’m detail-oriented” → 7 years in pharmacy where data errors cost lives  
-- “I learn fast” → Self-taught pandas, SQL-style analysis, and visualization in one week  
-
-I don’t want a job around data. I want to solve business problems with analysis every day.
-
----
-
-## 📊 What My Work Demonstrates
-
-✅ Data manipulation and cleaning  
-✅ SQL-style analytical thinking  
-✅ KPI creation and performance analysis  
-✅ Data visualization and storytelling  
-✅ Executive-ready communication  
-✅ Clean, documented, reproducible code  
-
----
-
-## 🔧 Current Learning & Next Steps
-
-**Completed:**
-- ✅ 5-day Data Analyst Sprint (Jan 2025)
-- ✅ 8-day Python Portfolio Sprint
-- ✅ pandas, matplotlib, seaborn
-- ✅ Git / GitHub workflow
-- ✅ Data storytelling and visualization design
-
-**Next:**
-- Advanced SQL
-- Larger, messier datasets
-- Tableau / Power BI
-- Case study interviews
-- Open-source data contributions
-
----
-
-## 📬 Let’s Connect
-
-I’m actively seeking entry-level data analyst roles and open to collaboration, feedback, and mentorship.
-
-- 📧 Email: meganmerrigan89@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/megan-merrigan-a824a1265  
-- 🐙 GitHub: https://github.com/SunshineKeys  
-
-**Location:** Des Moines, IA (open to remote)  
-**Status:** Actively applying  
-**Availability:** Immediate
-
----
-
-## 🌟 Why Healthcare → Data?
-
-Seven years in pharmacy taught me that accuracy isn’t optional. I worked in high-volume environments where small data mistakes had serious consequences.
-
-Same precision. Different domain.
-
----
-
-> **“We’re all just skeletons in meat mechs, powered by stardust and haunted by anxious ghosts.  
-> I’m teaching mine to analyze data.”**  
->
-> **Turns out my ghost is pretty good at pandas.** 🚀
+Thanks for stopping by. More projects incoming. 🌻
