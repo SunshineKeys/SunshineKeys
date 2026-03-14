@@ -7,6 +7,10 @@ I spent years on the ground floor of healthcare — processing Medicare, Medicai
 Now I'm building the technical skills to analyze that data at scale. I write Python scripts that automate what I used to do by hand, and I'm working toward roles where my pharmacy operations knowledge meets real data analysis — because someone who understands both the data AND the workflow it came from is hard to find.
 
 ---
+🏥 Featured Project: Pharmacy Claims Analysis Pipeline
+Full end-to-end healthcare data pipeline — SQL, Pandas, risk stratification, and audit-ready reports built on a synthetic Medicaid claims dataset.
+👉 https://github.com/SunshineKeys/Pharmacy-Claims-Pipeline
+---
 
 ## 📊 Data Analyst Projects
 
@@ -23,9 +27,6 @@ Now I'm building the technical skills to analyze that data at scale. I write Pyt
   👉 [github.com/SunshineKeys/job-application-analyzer](https://github.com/SunshineKeys/job-application-analyzer)
 
 ### 🔜 Coming Soon
-
-* **Pharmacy Claims Analysis Pipeline**
-  A complete Python + SQL + Pandas pipeline analyzing 500+ pharmacy claims across patients, drugs, and pharmacies. Includes data loading into SQLite, multi-table JOINs, GROUP BY aggregation, CASE-based risk flagging, and exported CSV reports — built to mirror real PBM analytics workflows.
 
 * **Power BI Healthcare Dashboard**
   Interactive dashboard visualizing pharmacy claims data — cost trends by therapeutic category, denial rates, high-cost patient identification, and formulary tier analysis.
